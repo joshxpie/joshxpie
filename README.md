@@ -15,5 +15,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/josh-huynh-15695371/
+[linkedin]: https://www.linkedin.com/in/huynhjosh/
 
